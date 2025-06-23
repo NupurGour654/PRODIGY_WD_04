@@ -1,5 +1,5 @@
 document.addEventListener("DOMContentLoaded", function() {
-    // Typed.js animation for the home section
+    // animation for the home section
     new Typed(".text", {
         strings: ["Data Analyst", "Full Stack Developer", "Database Manager", "Python Programmer"],
         typeSpeed: 100,
@@ -7,7 +7,7 @@ document.addEventListener("DOMContentLoaded", function() {
         loop: true
     });
 
-    // Show skill progress bars
+    // Show skill progress statistics
     const progressBars = document.querySelectorAll(".progress-line span");
     progressBars.forEach(bar => {
         const width = bar.getAttribute("style");
@@ -17,7 +17,7 @@ document.addEventListener("DOMContentLoaded", function() {
         }, 500);
     });
 
-    // Show "back to top" button on scroll
+    // Show "top again" button on scroll
     const topButton = document.querySelector(".top");
     window.addEventListener("scroll", () => {
         if (window.pageYOffset > 300) {
