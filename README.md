@@ -1,6 +1,6 @@
 # PRODIGY_WD_04
 
-This repository features my personal portfolio website, developed using **HTML**, **CSS**, and **JavaScript**. The site is designed to be fully responsive, providing a smooth and consistent experience across all screen sizes — from desktops to mobile devices.
+This repository features my personal portfolio website, developed using **HTML**, **CSS**, and **JavaScript**. The site is designed to be fully responsive, providing a smooth and consistent experience across all screen sizes from desktops to mobile devices.
 
 The website's structure is built with HTML, styled using CSS for a visually appealing and flexible layout, and enhanced with JavaScript to introduce interactivity and dynamic functionality.
 
