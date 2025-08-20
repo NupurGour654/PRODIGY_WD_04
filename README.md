@@ -6,4 +6,4 @@ The website's structure is built with HTML, styled using CSS for a visually appe
 
 This project serves as a **starter template** for building your own personalized portfolio. You can easily update the content to include your own information and showcase your work. The styling — including colors, fonts, and layout — can be customized via the CSS files. If you'd like to expand the site further, you can add new sections or features using HTML, CSS, and JavaScript.
 
-Feel free to use this repository as a foundation for your personal portfolio and modify it to best represent your skills, Personality, and creative vision.
+Feel free to use this repository as a foundation for your personal portfolio and modify it to best represent your Skills, Personality, and creative vision.
